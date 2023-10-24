@@ -1,1 +1,16 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+#mainHeading {
+    font-variant: small-caps;
+}
+#testP {
+    padding-left: 36px;
+    padding-right: 36px;
+}
+.funParagraph {
+    color: darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
