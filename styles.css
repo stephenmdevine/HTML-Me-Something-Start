@@ -5,12 +5,20 @@ body {
 }
 #mainHeading {
     font-variant: small-caps;
+    text-align: center;
+    color: red;
 }
 #testP {
-    padding-left: 36px;
-    padding-right: 36px;
+    padding-left: 72px;
+    padding-right: 72px;
 }
 .funParagraph {
-    color: darkslateblue;
+    color: green;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
